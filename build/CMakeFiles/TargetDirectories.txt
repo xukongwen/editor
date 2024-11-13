@@ -1,0 +1,3 @@
+/Users/huahuapro/myapps/editor/build/CMakeFiles/minimal_text_editor.dir
+/Users/huahuapro/myapps/editor/build/CMakeFiles/edit_cache.dir
+/Users/huahuapro/myapps/editor/build/CMakeFiles/rebuild_cache.dir
